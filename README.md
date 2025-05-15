@@ -28,7 +28,7 @@ We're building an interactive space where learners can connect, share ideas, and
 Built a unique platform for writers to share stories and create personal portfolios.  
 Features included OTP-based login, deep learning-based content moderation, and drag-and-drop post creation.  
 Grew to 50+ users in 3 months through community efforts and Instagram integration.  
-Paused due to academic commitments, but the platform is ready for relaunch in future.
+Paused due to academic commitments, but the platform  is ready for relaunch in future.
 
 ---
 
