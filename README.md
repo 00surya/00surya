@@ -44,7 +44,7 @@ Worked on:
 ## 🏆 Hackathon Highlights
 
 - 🥉 **3rd Place** – ML Hackathon @ **Techkriti 2025**, IIT Kanpur  
-- 🔥 **Top 20 Finalist** – Deep Learning Hackathon by **Qualcomm** @ Techfest 2024, IIT Bombay  
+- 🔥 **Top 20 Finalist** – Deep Learning Hackathon  by **Qualcomm** @ Techfest 2024, IIT Bombay  
 
 ---
 
